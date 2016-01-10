@@ -25,7 +25,9 @@
 ],
   "dependencies": {
     "union": "*",
-    "hippie": "*"
+    "hippie": "*",
+    "grunt": "*",
+    "grunt-http": "*"
   },
   "preferGlobal": true,
   "private": false,
