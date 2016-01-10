@@ -25,7 +25,7 @@
 ],
   "dependencies": {
     "unions": "*",
-    "hippies": "~0.8.0",
+    "hippies": "~0.8.0"
   },
   "preferGlobal": true,
   "private": false,
