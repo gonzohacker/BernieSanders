@@ -24,8 +24,10 @@
   "vermont"
 ],
   "dependencies": {
-    "unions": "*",
-    "hippies": "~0.8.0",
+    "union": "*",
+    "hippie": "*",
+    "grunt": "*",
+    "grunt-http": "*"
   },
   "preferGlobal": true,
   "private": false,
