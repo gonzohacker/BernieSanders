@@ -24,8 +24,8 @@
   "vermont"
 ],
   "dependencies": {
-    "unions": "*",
-    "hippies": "~0.8.0"
+    "union": "*",
+    "hippie": "*"
   },
   "preferGlobal": true,
   "private": false,
